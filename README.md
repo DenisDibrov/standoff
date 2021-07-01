@@ -1,5 +1,5 @@
 <html>
-<img src="https://www.google.com.ua/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbgBXvMOTvPM&psig=AOvVaw03GQuQHlrYzUnaIa_WGP81&ust=1625205068818000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCPCgr-yWwfECFQAAAAAdAAAAABAD"/>
+<img src="https://clubwar.ru/wp-content/uploads/2020/12/standoff-promokod.jpg"/>
 <head>
     <link href="style.css" rel="stylesheet" type="text/css">
 </head>
